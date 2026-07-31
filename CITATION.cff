@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Flow and Process Optimization: code and data"
+message: "If you use this code or data, please cite the book and this repository."
+type: software
+authors:
+  - family-names: Stagno
+    given-names: Antonio
+    affiliation: STAGNO&CO SARL
+version: 1.0.0
+date-released: 2026-07-31
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+abstract: >-
+  Generator, dataset, process-mining pipeline and discrete-event simulations
+  behind the CycloPlus running case of the book. CycloPlus is a constructed
+  company; the data is generated at a fixed seed and is a demonstration, not a
+  record of any real plant.
+references:
+  - type: book
+    title: "Flow and Process Optimization: From Intuition to Data-Driven Operations"
+    authors:
+      - family-names: Stagno
+        given-names: Antonio
+    publisher:
+      name: STAGNO&CO
+    year: 2026
+    isbn: "978-2-940870-01-1"

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Figures are build output, not source. Regenerate them with the scripts in src/.
+figures/*.svg
+figures/*.png
+!figures/.gitkeep
